@@ -1,0 +1,229 @@
+Sent data chunk with cwnd=1
+Slow start: increased cwnd to 2
+Sent data chunk with cwnd=2
+Sent data chunk with cwnd=2
+Slow start: increased cwnd to 4
+Sent data chunk with cwnd=4
+Sent data chunk with cwnd=4
+Sent data chunk with cwnd=4
+Sent data chunk with cwnd=4
+Slow start: increased cwnd to 8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Congestion avoidance: increased cwnd to 9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Congestion avoidance: increased cwnd to 10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Congestion avoidance: increased cwnd to 11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Congestion avoidance: increased cwnd to 12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Congestion avoidance: increased cwnd to 13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Congestion avoidance: increased cwnd to 14
+Simulated congestion detected!
+Fast retransmit: cwnd reset to 1, ssthresh set to 7
+Sent data chunk with cwnd=1
+Slow start: increased cwnd to 2
+Sent data chunk with cwnd=2
+Sent data chunk with cwnd=2
+Slow start: increased cwnd to 4
+Sent data chunk with cwnd=4
+Sent data chunk with cwnd=4
+Sent data chunk with cwnd=4
+Sent data chunk with cwnd=4
+Slow start: increased cwnd to 8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Congestion avoidance: increased cwnd to 9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Congestion avoidance: increased cwnd to 10
+Simulated congestion detected!
+Fast retransmit: cwnd reset to 1, ssthresh set to 5
+Sent data chunk with cwnd=1
+Slow start: increased cwnd to 2
+Sent data chunk with cwnd=2
+Sent data chunk with cwnd=2
+Slow start: increased cwnd to 4
+Sent data chunk with cwnd=4
+Sent data chunk with cwnd=4
+Sent data chunk with cwnd=4
+Sent data chunk with cwnd=4
+Slow start: increased cwnd to 8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Congestion avoidance: increased cwnd to 9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
+Congestion avoidance: increased cwnd to 10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Sent data chunk with cwnd=10
+Congestion avoidance: increased cwnd to 11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Sent data chunk with cwnd=11
+Congestion avoidance: increased cwnd to 12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Sent data chunk with cwnd=12
+Congestion avoidance: increased cwnd to 13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Sent data chunk with cwnd=13
+Congestion avoidance: increased cwnd to 14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Sent data chunk with cwnd=14
+Congestion avoidance: increased cwnd to 15
+Simulated congestion detected!
+Fast retransmit: cwnd reset to 1, ssthresh set to 7.5
+Sent data chunk with cwnd=1
+Slow start: increased cwnd to 2
+Sent data chunk with cwnd=2
+Sent data chunk with cwnd=2
+Slow start: increased cwnd to 4
+Sent data chunk with cwnd=4
+Sent data chunk with cwnd=4
+Sent data chunk with cwnd=4
+Sent data chunk with cwnd=4
+Slow start: increased cwnd to 8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Sent data chunk with cwnd=8
+Congestion avoidance: increased cwnd to 9
+Sent data chunk with cwnd=9
+Sent data chunk with cwnd=9
